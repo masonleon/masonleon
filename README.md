@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a dedicated and collaborative maritime, transportation & logistics, and supply chain professional with a master's degree in computer science, data science specialization.
+
+Through several internships and positions in the maritime, intermodal, and logistics industries, I was introduced to the complex operations of the global supply chain and the movement of freight. My work experiences exposed me to the industry’s use of computing to optimize the routing of cargo, enable secure communication with stakeholders, improve safety, and deploy next-generation vehicles and freight infrastructure. Through this, I recognized the vital link between data, computer science, and the future of transportation.
+
+I returned to school to gain an advanced technical skill set and a core understanding of technologies utilized throughout the field. I look forward to applying my studies in support of data projects, exciting new ideas, and emerging technologies that will improve efficiencies and further advance North American intermodal supply chain operations.
+
+In my GitHub, you will find some of my academic and personal projects.
+
 <!--
 **masonleon/masonleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
